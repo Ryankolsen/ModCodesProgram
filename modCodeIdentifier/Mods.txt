@@ -1,0 +1,31 @@
+005 = Black Anodized - Spacecraft
+027 = Black Zinc Cobalt - Spacecraft
+023 = Electroless Nickel - Spacecraft
+024 = Green Zinc Cobalt - Spacecraft
+989 = Black Zinc Nickel - Spacecraft
+999 = Teflon Nickel, non-reflective - Spacecraft
+098 = Stainless Steel - Spacecraft
+F80 = Crimp Contacts - Spacecraft
+A95 = Gold Plated Contacts - Spacecraft
+142 = Heavy Gold Plated Contacts - Spacecraft
+
+A34 = Electroless nickel hardware, RoHS compliant (European Version) - Cannon
+A71 = Electroless nickel hardware, RoHS compliant (USA Version) - Cannon
+A206 = Black Zinc Cobalt (European Version) - Cannon 
+A232 = Black Zinc Cobalt (USA Version) - Cannon 
+A233 = Green Zinc Cobalt - Cannon
+A176 = Gold Plated Contacts - Cannon
+F42 = Supplied W/O Grommet and Backshell - Cannon 
+F85 = Supplied W/O Grommet and Compression Ring - Cannon 
+08 = At the end of a part number calls out a 90 Degree Backshell - Cannon 
+
+M11 = Zinc Cobalt Olive Drab - ABCIR
+M115 = Zinc cobalt black passivation and size 14 AWG contact buckets - ABCIR
+M133 = Countersunk Imperial MTG Holes - ABCIR
+M134 = Black Epoxy Finish - ABCIR
+M14 = Size 16 AWG contact buckets - ABCIR
+M141 = Size 22 AWG contact buckets - ABCIR
+M263 = Stainless Steel - ABCIR
+M32 = Black Zinc Cobalt and Through MTG Holes - ABCIR
+
+End List                                                                                    

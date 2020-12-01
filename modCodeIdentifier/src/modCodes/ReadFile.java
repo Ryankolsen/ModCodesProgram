@@ -12,6 +12,7 @@ import java.util.ArrayList;
 /**
  * @author Ryan Olsen
  * Read file, create an array of all modification codes. Each code is a new string in the array
+ * "C:\\Users\\Ryan Olsen\\Documents\\PartNumber\\Mods.txt"
  */
 public class ReadFile {
 	
@@ -19,7 +20,7 @@ public class ReadFile {
 	ArrayList<String> modList = new ArrayList<>(); //create array list
 	 
 	//Read the file. Each new line is adds a new string to the array modList
-	try (FileReader f = new FileReader("C:\\Users\\Ryan Olsen\\Documents\\PartNumber\\Mods.txt")) {
+	try (FileReader f = new FileReader("C:\\Users\\Ryan Olsen\\git\\repository\\modCodeIdentifier\\Mods.txt")) {
 	    StringBuffer sb = new StringBuffer();
 	    while (f.ready()) {
 	        char c = (char) f.read();
