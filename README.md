@@ -5,3 +5,5 @@ This program takes an existing file of modification codes, reads the file and co
 String array. It then prompts the user for the desired modification code. Once entered, it uses a 
 for loop to cycle through all existing codes and find a match. If a match is found it is printed to
 the screen. If no match is found an error message prints stating this fact.
+
+Please see screenshots in file titled "ModCodes Screenshots" for an example of this program. 
